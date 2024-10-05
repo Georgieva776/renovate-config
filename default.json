@@ -130,7 +130,7 @@
             "matchPackageNames": ["/^actions/.*/"]
         },
         {
-            "groupName": "eslint",
+            "groupName": "eslint plugins",
             "matchPackageNames": [
                 "/^eslint.*/",
                 "/^@stylistic/.*/",
